@@ -1,0 +1,12 @@
+{
+    "epigen/microtest": {
+        "path": "/home/afr/workspace/microtest",
+        "key": "key",
+        "action": [["sh", "run_microtest.sh"]]
+    },
+	"epigen/open_pipelines": {
+        "path": "/home/afr/workspace/microtest",
+        "key": "key",
+        "action": [["sh", "run_microtest.sh"]]
+    }
+}
